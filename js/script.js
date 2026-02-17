@@ -266,7 +266,7 @@ function printReceipt(item) {
         </head>
         <body onload="window.print(); window.close();">
             <div class="text-center">
-                <h2 style="margin:0;">AVTO SCHOOL</h2>
+                <h2 style="margin:0;">TASH INDEX AVTODROM</h2>
                 <p>${item.center_name}</p>
                 <div class="hr"></div>
                 <p class="bold">TO'LOV CHEKI</p>
